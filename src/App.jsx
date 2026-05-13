@@ -88,6 +88,19 @@ export default function ScorpionKingsLive() {
             </div>
           ))}
         </div>
+        <section className="py-20 bg-black text-white px-6">
+  <h2 className="text-5xl font-bold text-center text-yellow-400 mb-10">
+    Stage & Seating Layout
+  </h2>
+
+  <div className="flex justify-center">
+    <img
+      src="/stage-map.jpg"
+      alt="Stage Layout"
+      className="rounded-3xl shadow-2xl max-w-full w-[900px] border-4 border-yellow-500"
+    />
+  </div>
+</section>
       </section>
     </div>
   );
