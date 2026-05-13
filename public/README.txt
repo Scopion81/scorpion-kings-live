@@ -1,0 +1,1 @@
+Place your image here and rename it to: scorpion-king.jpg
