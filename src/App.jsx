@@ -1,10 +1,13 @@
 export default function ScorpionKingsLive() {
-  const tickets = [
-    { block: '217', section: 'L2 General East', price: 'R700.00' },
-    { block: '218', section: 'L2 General East', price: 'R700.00' },
-    { block: '219', section: 'L2 General East', price: 'R700.00' },
-    { block: '220', section: 'L2 General East', price: 'R700.00' },
-  ];
+   const tickets = [
+  { block: '144-147', section: 'L2 General West', price: 'R800.00' },
+  { block: '220-222', section: 'L2 General East', price: 'R700.00' },
+  { block: '525-528', section: 'L2 General East', price: 'R650.00' },
+  { block: '529-540', section: 'L2 General South', price: 'R400.00' },
+  { block: 'Standing', section: 'L2 Ring Standing', price: 'R990.00' },
+  { block: 'Ground Seated', section: 'L2 Next to Stage', price: 'R1500.00' },
+];
+
 
   return (
     <div className="bg-black text-white min-h-screen font-sans">
